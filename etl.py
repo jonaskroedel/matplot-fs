@@ -33,5 +33,5 @@ plt.legend()
 plt.grid(True)
 
 # Show the plot
-pls.savefig("etl.png")
+plt.savefig("etl.png")
 plt.show()
